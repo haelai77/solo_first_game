@@ -1,4 +1,4 @@
-# leo-s_first_game
+# First solo game
 This is a repo for the first solo game I'm ever going to make.
 
 <img src="/SKETCHES/SKETCH_FILE.png" alt="Alt text" title="Optional title">
